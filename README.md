@@ -3,5 +3,7 @@
 
 
 # Comando de instalación:
-<em> Copia y pega: </em>
-git clone https://github.com/drowkid-1/DrowShing;cd DrowShing;chmod 775 install;bash install
+<em> <strong> Copia y pega: </strong> </em>
+<code> git clone https://github.com/drowkid-1/DrowShing;cd DrowShing;chmod 775 install;bash install </code>
+
+# by: DrowKid
